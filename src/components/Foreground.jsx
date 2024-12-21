@@ -1,4 +1,4 @@
-import React, { useRef } from 'react'
+import  { useRef } from 'react'
 import Card from './Card'
 
 
@@ -9,12 +9,6 @@ function foreground() {
     {
       desc: "Lorem, ipsum dolor sit amet consectetur adipisicing." , filesize:".9mb", close: true, tag:{isOpen: true , tagTItle: "download now", tagColor:"green " }
     },
-    {
-      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing." , filesize:".9mb", close: true, tag:{isOpen: true , tagTItle: "Download now", tagColor:"green " }
-    },
-    {
-      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing." , filesize:".9mb", close:true, tag:{isOpen: true , tagTItle: "Download Now", tagColor:"green " }
-    }
   ]
 
   
